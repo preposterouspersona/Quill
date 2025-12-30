@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 .env
+
+quick_notes.txt
